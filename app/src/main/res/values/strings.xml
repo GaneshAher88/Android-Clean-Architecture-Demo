@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">User Directory</string>
+    <string name="users_title">User directory</string>
+    <string name="user_handle">@%1$s</string>
+    <string name="users_load_error">Couldn’t load users. Check your connection and try again.</string>
+    <string name="users_empty">No users to display.</string>
+    <string name="retry">Retry</string>
+</resources>
